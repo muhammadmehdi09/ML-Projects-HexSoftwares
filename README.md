@@ -1,12 +1,12 @@
-# HexSoftwares Project
+# HexSoftwares Projects
 
 ## Project 1 (Image Classification)
 
-### 🚀 Features
+### Features
 - Image Classification (Cats vs Dogs)
 - Simple and effetive design
 - Efficient implementation
 
-### 🛠️ Tech Stack
+### Tech Stack
 - Language: Python
 - Tools/Libraries: Tensorflow
