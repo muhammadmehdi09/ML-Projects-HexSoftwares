@@ -9,4 +9,5 @@
 
 ### Tech Stack
 - Language: Python
-- Tools/Libraries: Tensorflow
+- Tools/Libraries: Tensorflow & Numpy
+- Dataset: Kaggle (Cats vs Dogs)
