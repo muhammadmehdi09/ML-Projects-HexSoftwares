@@ -1,6 +1,4 @@
-# HexSoftwares Projects
-
-## Project 1 (Image Classification)
+# HexSoftwares Image Classification Project
 
 ### Features
 - Image Classification (Cats vs Dogs)
